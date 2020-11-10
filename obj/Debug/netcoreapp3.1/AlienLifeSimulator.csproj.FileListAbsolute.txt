@@ -1,0 +1,13 @@
+C:\Users\d_dia\source\repos\AlienLifeSimulator\bin\Debug\netcoreapp3.1\AlienLifeSimulator.exe
+C:\Users\d_dia\source\repos\AlienLifeSimulator\bin\Debug\netcoreapp3.1\AlienLifeSimulator.deps.json
+C:\Users\d_dia\source\repos\AlienLifeSimulator\bin\Debug\netcoreapp3.1\AlienLifeSimulator.runtimeconfig.json
+C:\Users\d_dia\source\repos\AlienLifeSimulator\bin\Debug\netcoreapp3.1\AlienLifeSimulator.runtimeconfig.dev.json
+C:\Users\d_dia\source\repos\AlienLifeSimulator\bin\Debug\netcoreapp3.1\AlienLifeSimulator.dll
+C:\Users\d_dia\source\repos\AlienLifeSimulator\bin\Debug\netcoreapp3.1\AlienLifeSimulator.pdb
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.csprojAssemblyReference.cache
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.AssemblyInfoInputs.cache
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.AssemblyInfo.cs
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.csproj.CoreCompileInputs.cache
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.dll
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.pdb
+C:\Users\d_dia\source\repos\AlienLifeSimulator\obj\Debug\netcoreapp3.1\AlienLifeSimulator.genruntimeconfig.cache
